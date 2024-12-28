@@ -1,2 +1,3 @@
-# trinity-tavern-hub
-This is a RPG character sheet manager for our D&amp;D sessions
+# Taverna Trindade Hub
+
+Um gerenciador de fichas de personagens para as sessões de D&D
